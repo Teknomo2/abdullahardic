@@ -50,13 +50,6 @@
 }
 
 
-*,
-::before,
-::before {
-  box-sizing: border-box;
-}
-
-
 
 ::-webkit-scrollbar-track
 {
